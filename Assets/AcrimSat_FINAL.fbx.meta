@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 40db9b8ca453d5045819cf0c80b4dc20
+timeCreated: 1518530640
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Acrimsat_vFINAL [Layer1]
+    100004: Acrimsat_vFINAL [Layer2]
+    100006: Acrimsat_vFINAL [Layer3]
+    100008: Acrimsat_vFINAL [Layer4]
+    100010: Acrimsat_vFINAL [Layer5]
+    100012: Acrimsat_vFINAL [Layer6]
+    100014: Acrimsat_vFINAL [Layer7]
+    100016: Acrimsat_vFINAL [Layer8]
+    100018: Acrimsat_vFINAL [Layer9]
+    400000: //RootNode
+    400002: Acrimsat_vFINAL [Layer1]
+    400004: Acrimsat_vFINAL [Layer2]
+    400006: Acrimsat_vFINAL [Layer3]
+    400008: Acrimsat_vFINAL [Layer4]
+    400010: Acrimsat_vFINAL [Layer5]
+    400012: Acrimsat_vFINAL [Layer6]
+    400014: Acrimsat_vFINAL [Layer7]
+    400016: Acrimsat_vFINAL [Layer8]
+    400018: Acrimsat_vFINAL [Layer9]
+    2300000: Acrimsat_vFINAL [Layer1]
+    2300002: Acrimsat_vFINAL [Layer2]
+    2300004: Acrimsat_vFINAL [Layer3]
+    2300006: Acrimsat_vFINAL [Layer4]
+    2300008: Acrimsat_vFINAL [Layer5]
+    2300010: Acrimsat_vFINAL [Layer6]
+    2300012: Acrimsat_vFINAL [Layer7]
+    2300014: Acrimsat_vFINAL [Layer8]
+    2300016: Acrimsat_vFINAL [Layer9]
+    3300000: Acrimsat_vFINAL [Layer1]
+    3300002: Acrimsat_vFINAL [Layer2]
+    3300004: Acrimsat_vFINAL [Layer3]
+    3300006: Acrimsat_vFINAL [Layer4]
+    3300008: Acrimsat_vFINAL [Layer5]
+    3300010: Acrimsat_vFINAL [Layer6]
+    3300012: Acrimsat_vFINAL [Layer7]
+    3300014: Acrimsat_vFINAL [Layer8]
+    3300016: Acrimsat_vFINAL [Layer9]
+    4300000: Acrimsat_vFINAL [Layer1]
+    4300002: Acrimsat_vFINAL [Layer2]
+    4300004: Acrimsat_vFINAL [Layer3]
+    4300006: Acrimsat_vFINAL [Layer4]
+    4300008: Acrimsat_vFINAL [Layer5]
+    4300010: Acrimsat_vFINAL [Layer6]
+    4300012: Acrimsat_vFINAL [Layer7]
+    4300014: Acrimsat_vFINAL [Layer8]
+    4300016: Acrimsat_vFINAL [Layer9]
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acrim Instrument
+    second: {fileID: 2100000, guid: b5bebc11b9e80d345a5f8a0c01999abc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Acrim Instrument_Grey
+    second: {fileID: 2100000, guid: 2a01dee8fa114944b809db73d57ace05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fine Sun Sensor
+    second: {fileID: 2100000, guid: 78e5611b749376f46a8cf63a9be4f86b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main Body
+    second: {fileID: 2100000, guid: b32d610ad779d054e8105886e3301ee6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S-band Antenna
+    second: {fileID: 2100000, guid: 1540f225b6c7fa945b54b62500a25131, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S-band Antenna 2
+    second: {fileID: 2100000, guid: 6b5f42b3c419aae40942bba21d034890, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S-band Antenna_Base
+    second: {fileID: 2100000, guid: ff4a3f0511df59a4fb813f44f4f531e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: S-band Antenna_Base 2
+    second: {fileID: 2100000, guid: b186ed51c44d85a44b9246588a8c9293, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Side Panel 1
+    second: {fileID: 2100000, guid: c8b134a34a48b6441b813dcaeee85900, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Side Panel 2
+    second: {fileID: 2100000, guid: c8b134a34a48b6441b813dcaeee85900, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Side Panel 3
+    second: {fileID: 2100000, guid: c8b134a34a48b6441b813dcaeee85900, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Side Panel 4
+    second: {fileID: 2100000, guid: c8b134a34a48b6441b813dcaeee85900, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Side Panel 5
+    second: {fileID: 2100000, guid: c8b134a34a48b6441b813dcaeee85900, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Side Panel 6
+    second: {fileID: 2100000, guid: c8b134a34a48b6441b813dcaeee85900, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Side Panel 7
+    second: {fileID: 2100000, guid: c8b134a34a48b6441b813dcaeee85900, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Side Panel 8
+    second: {fileID: 2100000, guid: c8b134a34a48b6441b813dcaeee85900, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Side Panels
+    second: {fileID: 2100000, guid: c8b134a34a48b6441b813dcaeee85900, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solar 1
+    second: {fileID: 2100000, guid: d48c8011a2f34fc429f17a712480b794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solar 2
+    second: {fileID: 2100000, guid: d48c8011a2f34fc429f17a712480b794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solar 3
+    second: {fileID: 2100000, guid: d48c8011a2f34fc429f17a712480b794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solar 4
+    second: {fileID: 2100000, guid: d48c8011a2f34fc429f17a712480b794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solar Panel_Back
+    second: {fileID: 2100000, guid: 4cddf2f0175105043996ec6d13e2c6c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solar Panel_Rim
+    second: {fileID: 2100000, guid: e1fab6d9a197d93478efc885d5c4732f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Solar Panel_Small Part
+    second: {fileID: 2100000, guid: b65cf15260fe4ad48b1a1d753b3bba72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Support Rods
+    second: {fileID: 2100000, guid: 28cccca062a177040860abacc851579f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UHF Antenna
+    second: {fileID: 2100000, guid: 011705316b6e02c438fde00bf3dd4779, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
